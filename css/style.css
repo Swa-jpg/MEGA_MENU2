@@ -51,7 +51,7 @@ a{
 	font-size: 30px;
 	color:#ffffff;
 	font-weight: 700;
-	text-decoration: ;
+	text-decoration:none ;
 	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	
 	animation: logo 1s ease-in-out infinite alternate;
@@ -215,6 +215,7 @@ a{
 		cursor: pointer;
 		align-items: center;
 		justify-content: center;
+		background-color: white;
 	}
 	.header .mobile-menu-trigger span{
 		display: block;
@@ -268,6 +269,7 @@ a{
 		padding:0 50px 0 15px;
 		display: block;
 		border-bottom: 1px solid rgba(0,0,0,0.1);
+		background-color: black;
 	}
 	.header .menu > ul > li > a i{
 		position: absolute;
@@ -324,6 +326,7 @@ a{
 		height: 100%;
 		overflow-x: hidden;
 		overflow-y: auto;
+		background-color: black;
 	}
 	.header .menu > ul > li .sub-menu.mega-menu,
 	.header .menu > ul > li .sub-menu{
@@ -404,6 +407,7 @@ a{
 	  opacity:1;	
 	}
 }
+
 
 
 
